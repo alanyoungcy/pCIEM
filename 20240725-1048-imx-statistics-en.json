@@ -1,0 +1,65 @@
+﻿[
+  {
+    "year": 2024,
+    "month": 6,
+    "types": [
+      {
+        "type": "No. of Internet mails received",
+        "number": 4647310
+      },
+      {
+        "type": "No. of Internet mails filtered",
+        "number": 10561408
+      },
+      {
+        "type": "No. of Internet mails sent",
+        "number": 5123316
+      },
+      {
+        "type": "Pct. of mails received with SPF information",
+        "number": 91.76
+      },
+      {
+        "type": "Pct. of mails received with SPF verified",
+        "number": 90.36
+      },
+      {
+        "type": "Pct. of mails received with DKIM information",
+        "number": 77.00
+      },
+      {
+        "type": "Pct. of mails received with DKIM verified",
+        "number": 75.32
+      },
+      {
+        "type": "Pct. of mails received with DMARC information",
+        "number": 76.66
+      },
+      {
+        "type": "Pct. of mails received with DMARC verified",
+        "number": 72.79
+      },
+      {
+        "type": "Pct. of mails received with TLS encryption",
+        "number": 92.20
+      },
+      {
+        "type": "Pct. of mails sent with SPF information",
+        "number": 100.00
+      },
+      {
+        "type": "Pct. of mails sent with DKIM information",
+        "number": 100.00
+      },
+      {
+        "type": "Pct. of mails sent with DMARC information",
+        "number": 100.00
+      },
+      {
+        "type": "Pct. of mails sent with TLS encryption",
+        "number": 95.62
+
+      }
+    ]
+  }
+]	
